@@ -1,0 +1,10 @@
+streamlit
+sounddevice
+numpy
+librosa
+torch
+transformers
+moviepy
+googletrans==4.0.0rc1
+gTTS
+joblib
